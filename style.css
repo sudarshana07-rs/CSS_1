@@ -1,6 +1,11 @@
 /* External Style Sheet */
-p{
+pre{
     color:rgb(0, 21, 255);
     font-size: large;
 }
 
+button{
+    color:crimson;
+    background-color: chartreuse;
+    size: 0dvi;
+}
